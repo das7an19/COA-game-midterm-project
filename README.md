@@ -2,7 +2,7 @@
 
 The classic snake game project is now updated and added with some extra features to boost your game play and power up your C# programming skills using the Windows Form Framework in Visual Studio. 
 
-![Screenshot of the game](Screenshot (2).png)
+![Screenshot of the game](https://github.com/das7an19/COA-game-midterm-project/blob/master/Screenshot%20(2).png)
 
 From the last project the following were added to the new and updated one
 
